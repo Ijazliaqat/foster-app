@@ -1,0 +1,17 @@
+export const supportToolData = {
+  desc1: 'This Decision Support Tool is to assist social workers, parents, foster carers and young people to talk to each other about delegated authority. It can help to prepare for the initial placement planning meeting and each subsequent review when the Placement Plan is considered. It is an aid to good practice in working with delegated authority.',
+  desc2: 'It does not replace or replicate the Placement Plan which is the legal requirement for this purpose. The required content of the Placement Plan is set out in Schedule 2 of the Care Planning, Placement and Case Review Regulations 2010; relevant statutory guidance is in Chapter 2 of the Children Act 1989 Guidance and Regulations Volume 2: Care Planning, Placement and Case Review.',
+  desc3: 'The Decision Support Tool is supported and explained further in the Fostering Network’s Handbook, Supporting Placement Planning. It is based on consultations which suggest that the areas covered are those where it is particularly important to have clarity. The aims are to ensure that the Placement Plan: ',
+  points1: [
+    '• is viewed as a living document that can change over time; ',
+    '• covers all the areas necessary for every child; ',
+    '• is as clear and inclusive of parents and foster carers as possible. '
+  ],
+  desc4: 'The Decision Support Tool is not a definitive list of tasks and responsibilities: over the life of a child’s placement with foster carers, other areas will inevitably arise and require clarification and not all of the elements that are included will apply to every young person. In addition to preparing for planning meetings and reviews, its other uses are: ',
+  points2: [
+    '• to assist supervising social workers to prepare fostering applicants for the tasks in foster care and to assess their needs in relation to the Training, Support and Development Standards for Foster Care;',
+    '• for child care social workers to use with parents who need additional support to understand delegated authority. The leaflet Information for Parents about Delegated Authority may also help with this.'
+  ],
+  desc5: 'Clarifying who is best placed to take everyday decisions depends on many factors: the young person’s age, views, legal status and care plan; the parents’ views; and the experience and the views of the foster carers. Collaboration and consultation are essential for successful partnership working.',
+  desc6: 'The Care Planning, Placement and Case Review Guidance 2015 para 3.195 sets out that ‘When deciding who should have authority to take particular decisions, the most appropriate exercise of decision-making powers will depend, in part, on the long term plan for the child, as set out in the child’s permanence plan. For example, where the plan is for the child to return home, the child’s parents should have a significant role in decision- making; where the plan is for long term foster care, the foster carers should have a significant say in the majority of decisions about the child’s care, including longer term decisions such as which school the child will attend.Whatever the permanence plan, the carer should have delegated authority to take day - to - day parenting decisions.This enables them to provide the best possible care for the child’'
+}

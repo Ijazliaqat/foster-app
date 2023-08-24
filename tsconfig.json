@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "typeRoots": ["node_modules/@types", "src/types"],
+    "paths": {
+      "@root/*": [
+        "./src/*"
+      ]
+    },
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "src/sections/overview/mui/buttons/ToggleButtons.js",
+    "src/components/animate/FabButtonAnimate.js",
+    "src/theme/overrides/Accordion.js",
+    "src/theme/overrides/Alert.js",
+    "src/sections/safeguarding/child-protection/child-abuse-and-expolitation-management/userChildAbuseExpolitationManagement",
+    "src/sections/carer-info/training-profile",
+    "src/sections/carer-info/training-profiles/trainings-list/TrainingsList.jsx"
+, "src/sections/matching-and-placement/placement/make-placement/placement-special-needs-agreement/usePlacementSpecialNeedsAgreement.tsx"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

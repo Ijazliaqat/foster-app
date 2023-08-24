@@ -1,0 +1,16 @@
+export const PLACEMENTTYPE = [
+  { value: "Emergency", label: "Emergency" },
+  { value: "Short Term", label: "Short Term" },
+  { value: "Long Term", label: "Long Term" },
+  { value: "Family & Friend/Kinship", label: "Family & Friend/Kinship" },
+  { value: "Short Break", label: "Short Break" },
+  { value: "Parent and Child ", label: "Parent and Child " },
+  { value: "Therapeutic", label: "Therapeutic" },
+  { value: "Fostering for adoption", label: "Fostering for adoption" },
+  { value: "Staying put/When I'm Ready", label: "Staying put/When I'm Ready" },
+  { value: "Permanent", label: "Permanent" },
+  { value: "Support Care", label: "Support Care" },
+  { value: "Special Guardianship", label: "Special Guardianship" },
+  { value: "Respite care", label: "Respite care" },
+  { value: "Other", label: "Other" },
+];
